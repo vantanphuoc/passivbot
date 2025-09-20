@@ -64,7 +64,7 @@
                    "unstuck_loss_allowance_pct": 0.003297,
                    "unstuck_threshold": 0.898}},
  "coin_overrides": {},
- "live": {"approved_coins": {"long": ["HYPE","ETH"], "short": ["HYPE","ETH"]},
+ "live": {"approved_coins": "configs/2-coins.json",
           "auto_gs": true,
           "empty_means_all_approved": true,
           "execution_delay_seconds": 2,
